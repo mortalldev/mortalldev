@@ -2,7 +2,16 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered">
+    <br>
+
+<img src="https://streak-stats.demolab.com?user=Mukhammedjokhn&theme=radical&hide_border=true&card_width=500px">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammedjokhn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
+  </p>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
