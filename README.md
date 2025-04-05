@@ -2,7 +2,7 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered">
     <br>
 
