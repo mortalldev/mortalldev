@@ -1,18 +1,6 @@
 # 👋 Hi, I'm Muhammadjon !
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered">
-    <br>
-
-<img src="https://streak-stats.demolab.com?user=Mukhammedjokhn&theme=radical&hide_border=true&card_width=500px">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammedjokhn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
-  </p>
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,3 +18,10 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+# Additional Information
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered"><br>
+    <img src="https://streak-stats.demolab.com?user=Mukhammedjokhn&theme=radical&hide_border=true&card_width=500px"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammedjokhn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
+</p>
