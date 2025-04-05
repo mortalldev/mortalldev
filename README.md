@@ -20,6 +20,13 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # Additional Information
+
+<p>
+    If you have any ideas or suggestions, I'd be happy to hear them! Let's create something amazing together. 🚀 <br/>
+
+Thanks for visiting my profile! 🌟
+</p>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered"><br>
     <img src="https://streak-stats.demolab.com?user=Mukhammedjokhn&theme=radical&hide_border=true&card_width=500px"><br>
