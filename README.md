@@ -17,7 +17,7 @@ Besides my professional activities, I enjoy strategic games, and currently, the 
 - **Frontend Developer at Realsoft** (6 month)
 - **Frontend Developer at Tech Nova IT Academy** (work now)
   
-## Portfolio
+## Projects
 
 1. **Oxygenhouse** - [oxygen.uz](https://oxygenhouse.uz/)
    - **Oxygenhouse** - is a project we developed for a large private company that deals with the buying and selling of apartments in large buildings. The project includes a comprehensive system for tracking various transactions related to these properties. It features options for viewing and filtering apartments, as well as multiple payment systems such as cash, som, credit, and subsidies. Each payment method is handled separately within the system. Additionally, the system tracks all income and expenses, and provides reports on the number of apartments sold and the number of buyers, ensuring that the company can manage its property sales efficiently. The project is a custom solution for the real estate industry, with a focus on managing complex financial transactions and sales tracking.
