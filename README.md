@@ -22,7 +22,7 @@ Besides my professional activities, I enjoy strategic games, and currently, the 
 1. **Oxygenhouse** - [oxygen.uz](https://oxygenhouse.uz/)
    - **Oxygenhouse** - is a project we developed for a large private company that deals with the buying and selling of apartments in large buildings. The project includes a comprehensive system for tracking various transactions related to these properties. It features options for viewing and filtering apartments, as well as multiple payment systems such as cash, som, credit, and subsidies. Each payment method is handled separately within the system. Additionally, the system tracks all income and expenses, and provides reports on the number of apartments sold and the number of buyers, ensuring that the company can manage its property sales efficiently. The project is a custom solution for the real estate industry, with a focus on managing complex financial transactions and sales tracking.
 
-2. **Autohub** - [autohub.uz](https://starlit-vacherin-a8d0d0.netlify.app/)
+2. **Autohub** - [autohub.uz](https://goavto.uz)
    - **Autohub** - is a project I am currently working on, which belongs to a private company specializing in buying and selling cars. The project allows users to obtain and store information about cars, read news posts and blogs, and search for spare parts for vehicles. It also provides general details about cars. The project is currently in its first version, and we are working on releasing the second version soon. The goal of the project is to create a comprehensive platform for managing car sales, related information, and spare parts efficiently.
   
 
