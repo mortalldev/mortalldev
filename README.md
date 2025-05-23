@@ -13,8 +13,8 @@ Besides my professional activities, I enjoy strategic games, and currently, the 
 
 ## Work Experience
 
-- **Frontend Developer at NISD** (5 month)
-- **Frontend Developer at Realsoft** (6 month)
+- **Frontend Developer at NISD** (1 year)
+- **Frontend Developer at Realsoft** (1 year)
 - **Frontend Developer at Tech Nova IT Academy** (work now)
   
 ## Projects
