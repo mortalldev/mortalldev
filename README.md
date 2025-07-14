@@ -24,6 +24,9 @@ Besides my professional activities, I enjoy strategic games, and currently, the 
 
 2. **Autohub** - [autohub.uz](https://goavto.uz)
    - **Autohub** - is a project I am currently working on, which belongs to a private company specializing in buying and selling cars. The project allows users to obtain and store information about cars, read news posts and blogs, and search for spare parts for vehicles. It also provides general details about cars. The project is currently in its first version, and we are working on releasing the second version soon. The goal of the project is to create a comprehensive platform for managing car sales, related information, and spare parts efficiently.
+
+3. **Lactalis** - [lactalis.uz](https://lactalisnamanganmilkcollection.uz)
+   - **Lactalis** - is a company in Namangan city, Uzbekistan. It's actually the current name of what used to be Nestle. They have a CRM-integrated project that manages various aspects of their operations - tracking how many employees they have, monitoring milk intake and output volumes, managing their drivers, and keeping records of how much milk each driver brings in.
   
 
 
@@ -57,7 +60,7 @@ Thanks for visiting my profile! 🌟
 </p>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mukhammedjokhn&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered"><br>
-    <img src="https://streak-stats.demolab.com?user=Mukhammedjokhn&theme=radical&hide_border=true&card_width=500px"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukhammedjokhn&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mortalldev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered"><br>
+    <img src="https://streak-stats.demolab.com?user=mortalldev&theme=radical&hide_border=true&card_width=500px"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mortalldev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
 </p>
