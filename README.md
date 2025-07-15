@@ -2,7 +2,7 @@
 
 ## Experience and Technologies
 
-- **Experience:** 2 years
+- **Experience:** 2.5 years
 - **Programming Languages:** JavaScript
 - **Frameworks and Libraries:** React, Next, TailwindCSS
 - **Tools:** Redux, RTK Query
@@ -15,7 +15,7 @@ Besides my professional activities, I enjoy strategic games, and currently, the 
 
 - **Frontend Developer at NISD** (1 year)
 - **Frontend Developer at Realsoft** (1 year)
-- **Frontend Developer at Tech Nova IT Academy** (work now)
+- **Frontend Developer at Tech Nova IT Academy** (6 month)
   
 ## Projects
 
