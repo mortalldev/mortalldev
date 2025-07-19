@@ -64,3 +64,11 @@ Thanks for visiting my profile! 🌟
     <img src="https://streak-stats.demolab.com?user=mortalldev&theme=radical&hide_border=true&card_width=500px"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mortalldev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
 </p>
+
+[![Codewars Badge](https://www.codewars.com/users/Mukhammedjohn/badges/large)](https://www.codewars.com/users/Mukhammedjohn)
+
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/mortaldev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mortalldev&count_private=true&show_icons=true&line_height=40&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortalldev&langs_count=5&hide=html,cmake&theme=holi)
+
