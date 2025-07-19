@@ -7,10 +7,10 @@
 
 ## Experience and Technologies
 
-- **Experience:** 2.5 years
-- **Programming Languages:** JavaScript
-- **Frameworks and Libraries:** React, Next, TailwindCSS
-- **Tools:** Redux, RTK Query
+- **Experience:** 2.6 years
+- **Programming Languages:** JavaScript, TypeScript
+- **Frameworks and Libraries:** ReactJS, NodeJS, NextJS, TailwindCSS
+- **Tools:** Redux, RTK Query, Shadcn UI, Ant Design, React Hook Form, Zod
 
 ## Soft Skills
 
