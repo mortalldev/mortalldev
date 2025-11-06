@@ -4,6 +4,9 @@
 
 [![Codewars Badge](https://www.codewars.com/users/Mukhammedjohn/badges/large)](https://www.codewars.com/users/Mukhammedjohn)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mortalldev&count_private=true&show_icons=true&line_height=40&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortalldev&langs_count=5&hide=html,cmake&theme=holi)
+
 
 ## Experience and Technologies
 
@@ -64,11 +67,11 @@ Besides my professional activities, I enjoy strategic games, and currently, the 
 Thanks for visiting my profile! 🌟
 </p>
 
-<p>
+<!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=mortalldev&rank_icon=github&include_all_commits=true&card_width=500px&hide_border=true&theme=radical&show=reviews,discussions_started,discussions_answered"><br>
     <img src="https://streak-stats.demolab.com?user=mortalldev&theme=radical&hide_border=true&card_width=500px"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mortalldev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=500px"/>
-</p>
+</p> -->
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mortalldev&count_private=true&show_icons=true&line_height=40&theme=holi)
