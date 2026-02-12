@@ -1,42 +1,6 @@
 # 👋 Hi, I'm Muhammadjon !
 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/mortaldev)
-
 [![Codewars Badge](https://www.codewars.com/users/Mukhammedjohn/badges/large)](https://www.codewars.com/users/Mukhammedjohn)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mortalldev&count_private=true&show_icons=true&line_height=40&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortalldev&langs_count=5&hide=html,cmake&theme=holi)
-
-
-## Experience and Technologies
-
-- **Experience:** 2.6 years
-- **Programming Languages:** JavaScript, TypeScript
-- **Frameworks and Libraries:** ReactJS, NodeJS, NextJS, TailwindCSS
-- **Tools:** Redux, RTK Query, Shadcn UI, Ant Design, React Hook Form, Zod
-
-## Soft Skills
-
-Besides my professional activities, I enjoy strategic games, and currently, the game I like is Dota 2. I am also good at getting along with everyone and working as part of a team, which reflects my strong soft skills.
-
-## Work Experience
-
-- **Frontend Developer at NISD** (1 year)
-- **Frontend Developer at Realsoft** (1 year)
-- **Frontend Developer at Tech Nova IT Academy** (6 month)
-  
-## Projects
-
-1. **Oxygenhouse** - [oxygen.uz](https://oxygenhouse.uz/)
-   - **Oxygenhouse** - is a project we developed for a large private company that deals with the buying and selling of apartments in large buildings. The project includes a comprehensive system for tracking various transactions related to these properties. It features options for viewing and filtering apartments, as well as multiple payment systems such as cash, som, credit, and subsidies. Each payment method is handled separately within the system. Additionally, the system tracks all income and expenses, and provides reports on the number of apartments sold and the number of buyers, ensuring that the company can manage its property sales efficiently. The project is a custom solution for the real estate industry, with a focus on managing complex financial transactions and sales tracking.
-
-2. **Autohub** - [autohub.uz](https://goavto.uz)
-   - **Autohub** - is a project I am currently working on, which belongs to a private company specializing in buying and selling cars. The project allows users to obtain and store information about cars, read news posts and blogs, and search for spare parts for vehicles. It also provides general details about cars. The project is currently in its first version, and we are working on releasing the second version soon. The goal of the project is to create a comprehensive platform for managing car sales, related information, and spare parts efficiently.
-
-3. **Lactalis** - [lactalis.uz](https://lactalisnamanganmilkcollection.uz)
-   - **Lactalis** - is a company in Namangan city, Uzbekistan. It's actually the current name of what used to be Nestle. They have a CRM-integrated project that manages various aspects of their operations - tracking how many employees they have, monitoring milk intake and output volumes, managing their drivers, and keeping records of how much milk each driver brings in.
-  
-
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
