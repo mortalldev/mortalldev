@@ -102,7 +102,7 @@ Software engineer from **Tashkent, Uzbekistan** building web products since **20
 | Project | Description |
 |---|---|
 | [e-commerce-client](https://github.com/mortalldev/e-commerce-client) | E-commerce storefront client |
-| [autohub](https://github.com/mortalldev/autohub) | Automotive marketplace web app |
+| [autohub](https://github.com/Muhammad3111/autohub) | Automotive marketplace web app (team project) |
 | [exam-results](https://github.com/mortalldev/exam-results) | Exam results lookup app |
 | [js-info-tracker](https://github.com/mortalldev/js-info-tracker) | JavaScript info tracker |
 
@@ -118,16 +118,7 @@ Software engineer from **Tashkent, Uzbekistan** building web products since **20
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mortalldev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortalldev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mortalldev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mortalldev&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
 </p>
 
 ---
